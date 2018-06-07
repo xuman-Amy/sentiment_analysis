@@ -1,5 +1,0 @@
-pandas
-numpy
-seaborn
-python-pptx
-Pillow
